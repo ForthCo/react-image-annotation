@@ -43,8 +43,8 @@ export const methods = {
           type: TYPE,
         }
       }
-    } else{
-      return {}
+    } else { 
+      return annotation;
     }
   }
 }
